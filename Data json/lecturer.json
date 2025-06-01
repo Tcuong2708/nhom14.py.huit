@@ -1,0 +1,115 @@
+[
+  {
+    "magv": "50000001",
+    "hoten": "Nguyễn Văn Phát",
+    "sodt": "09093245435",
+    "trinhdo": "Thạc sĩ",
+    "chunhiem": "14DHTH01",
+    "khoa": "Công nghệ thông tin"
+  },
+  {
+    "magv": "50000400",
+    "hoten": "Nguyễn Thị Tâm",
+    "sodt": "0773595604",
+    "trinhdo": "Tiến sĩ",
+    "chunhiem": "14DHTH02",
+    "khoa": "Công nghệ thông tin"
+  },
+  {
+    "magv": "50000401",
+    "hoten": "Trần Văn Hùng",
+    "sodt": "0911223344",
+    "trinhdo": "Thạc sĩ",
+    "chunhiem": "14DHDT01",
+    "khoa": "Điện tử"
+  },
+  {
+    "magv": "50000402",
+    "hoten": "Lê Thị Mai",
+    "sodt": "0933445566",
+    "trinhdo": "Tiến sĩ",
+    "chunhiem": "14DHKH01",
+    "khoa": "Cơ khí"
+  },
+  {
+    "magv": "50000403",
+    "hoten": "Phạm Văn Quý",
+    "sodt": "0944556677",
+    "trinhdo": "Thạc sĩ",
+    "chunhiem": "14DHKD01",
+    "khoa": "Kinh tế"
+  },
+  {
+    "magv": "50000404",
+    "hoten": "Võ Thị Dung",
+    "sodt": "0966778899",
+    "trinhdo": "Tiến sĩ",
+    "chunhiem": "14DHTP01",
+    "khoa": "Công nghệ thực phẩm"
+  },
+  {
+    "magv": "50000405",
+    "hoten": "Đặng Văn Toàn",
+    "sodt": "0977889900",
+    "trinhdo": "Thạc sĩ",
+    "chunhiem": "14DHMT01",
+    "khoa": "Sinh học và môi trường"
+  },
+  {
+    "magv": "50000406",
+    "hoten": "Bùi Thị Hạnh",
+    "sodt": "0988999000",
+    "trinhdo": "Tiến sĩ",
+    "chunhiem": "14DHSH01",
+    "khoa": "Công nghệ sinh học"
+  },
+  {
+    "magv": "50000407",
+    "hoten": "Lương Văn Minh",
+    "sodt": "0900111222",
+    "trinhdo": "Thạc sĩ",
+    "chunhiem": "14DHKTL01",
+    "khoa": "Luật"
+  },
+  {
+    "magv": "50000408",
+    "hoten": "Trịnh Thị Hoa",
+    "sodt": "0911333444",
+    "trinhdo": "Tiến sĩ",
+    "chunhiem": "14DHTQ01",
+    "khoa": "Ngoại ngữ"
+  },
+  {
+    "magv": "50000409",
+    "hoten": "Đặng Trần Khánh",
+    "sodt": "0909090009",
+    "trinhdo": "Phó Giáo sư",
+    "chunhiem": "14DHTH03",
+    "khoa": "Công nghệ thông tin"
+  },
+  {
+    "magv": "50000410",
+    "hoten": "Lê Thị Hồng",
+    "sodt": "0911112233",
+    "trinhdo": "Phó Giáo sư",
+    "chunhiem": "14DHKD02",
+    "khoa": "Kinh tế"
+  },
+  {
+    "magv": "50000411",
+    "hoten": "Nguyễn Trung Thành",
+    "sodt": "0922233344",
+    "trinhdo": "Giáo sư",
+    "chunhiem": "15DHNA02",
+    "khoa": "Du lịch và ẩm thựcc"
+  },
+  {
+    "magv": "50000412",
+    "hoten": "Phạm Thị Nhàn",
+    "sodt": "0933344455",
+    "trinhdo": "Giáo sư",
+    "chunhiem": "14DHSH02",
+    "khoa": "Sinh học và môi trường"
+  }
+]
+

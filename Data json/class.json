@@ -1,0 +1,105 @@
+[
+  {
+    "malop": "1000001",
+    "tenlop": "14DHTH01",
+    "khoa": "Công nghệ thông tin",
+    "khoahoc": "2023-2027"
+  },
+  {
+    "malop": "1000002",
+    "tenlop": "14DHTH02",
+    "khoa": "Công nghệ thông tin",
+    "khoahoc": "2023-2027"
+  },
+  {
+    "malop": "1000003",
+    "tenlop": "14DHTH03",
+    "khoa": "Công nghệ thông tin",
+    "khoahoc": "2023-2027"
+  },
+  {
+    "malop": "1000004",
+    "tenlop": "14DHTH04",
+    "khoa": "Công nghệ thông tin",
+    "khoahoc": "2023-2027"
+  },
+  {
+    "malop": "1000011",
+    "tenlop": "14DHBM01",
+    "khoa": "Công nghệ thông tin",
+    "khoahoc": "2023-2027"
+  },
+  {
+    "malop": "1000012",
+    "tenlop": "14DHBM02",
+    "khoa": "Công nghệ thông tin",
+    "khoahoc": "2023-2027"
+  },
+  {
+    "malop": "1000101",
+    "tenlop": "14DHTP01",
+    "khoa": "Công nghệ thực phẩm",
+    "khoahoc": "2023-2027"
+  },
+  {
+    "malop": "1000102",
+    "tenlop": "14DHTP02",
+    "khoa": "Công nghệ thực phẩm",
+    "khoahoc": "2023-2027"
+  },
+  {
+    "malop": "1100001",
+    "tenlop": "15DHTH01",
+    "khoa": "Công nghệ thông tin",
+    "khoahoc": "2024-2028"
+  },
+  {
+    "malop": "1100002",
+    "tenlop": "15DHTMDT01",
+    "khoa": "Kinh tế",
+    "khoahoc": "2024-2028"
+  },
+  {
+    "malop": "1100003",
+    "tenlop": "15DHKH01",
+    "khoa": "Cơ khí",
+    "khoahoc": "2024-2028"
+  },
+  {
+    "malop": "1100004",
+    "tenlop": "15DHNA01",
+    "khoa": "Du lịch và ẩm thực",
+    "khoahoc": "2024-2028"
+  },
+  {
+    "malop": "1100005",
+    "tenlop": "15DHDT01",
+    "khoa": "Điện tử",
+    "khoahoc": "2024-2028"
+  },
+  {
+    "malop": "1100006",
+    "tenlop": "15DHMT01",
+    "khoa": "Sinh học và môi trường",
+    "khoahoc": "2024-2028"
+  },
+  {
+    "malop": "1100007",
+    "tenlop": "15DHSH01",
+    "khoa": "Công nghệ sinh học",
+    "khoahoc": "2024-2028"
+  },
+  {
+    "malop": "1100008",
+    "tenlop": "15DHTA01",
+    "khoa": "Ngoại ngữ",
+    "khoahoc": "2024-2028"
+  },
+  {
+    "malop": "1200001",
+    "tenlop": "16DHTH01",
+    "khoa": "Công nghệ thông tin",
+    "khoahoc": "2025-2029"
+  }
+]
+

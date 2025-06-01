@@ -1,0 +1,52 @@
+[
+  {
+    "masv": "2001230001",
+    "hoten": "Nguyễn Văn Bình",
+    "ngaysinh": "24-02-2005",
+    "diachi": "140 Lê Trọng Tấn, Tân Phú, TP.HCM",
+    "sdt": "0901234567",
+    "gioitinh": "Nam",
+    "lop": "14DHTH01",
+    "hedt": "Chính quy"
+  },
+  {
+    "masv": "20023412345",
+    "hoten": "Trần Thị Nga",
+    "ngaysinh": "15-05-2005",
+    "diachi": "456 Trần Hưng Đạo, Quận 1, TP.HCM",
+    "sdt": "0912345678",
+    "gioitinh": "Nữ",
+    "lop": "14DHTP01",
+    "hedt": "Chính quy"
+  },
+    {
+    "masv": "2001230001",
+    "hoten": "Nguyễn Văn Bình",
+    "ngaysinh": "24-02-2005",
+    "diachi": "250 Lê Thúc Hoạch, Tân Phú, TP.HCM",
+    "sdt": "0501234567",
+    "gioitinh": "Nam",
+    "lop": "14DHTH01",
+    "hedt": "Chính quy"
+  },
+   {
+    "masv": "2002340014",
+    "hoten": "Nguyễn Văn Cường",
+    "ngaysinh": "14-08-2005",
+    "diachi": "180 Nguyễn Sơn, Tân Phú, TP.HCM",
+    "sdt": "0201234567",
+    "gioitinh": "Nam",
+    "lop": "14DHTH01",
+    "hedt": "Chính quy"
+  },
+   {
+    "masv": "2002340014",
+    "hoten": "Nguyễn Thị Ngọc",
+    "ngaysinh": "24-02-2005",
+    "diachi": "235 Nguyễn Chí Thanh, Quận 5, TP.HCM",
+    "sdt": "0701234567",
+    "gioitinh": "Nữ",
+    "lop": "14DHTH03",
+    "hedt": "Chính quy"
+  }
+]

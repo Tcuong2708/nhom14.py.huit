@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "role": "admin",
+    "image_path": "D:/IT/Python/Student_Management_App/Student_Management_App/user_img.png"
+  },
+  {
+    "username": "123",
+    "password": "123",
+    "role": "user",
+    "image_path": "C:/Users/ASUS/OneDrive/Pictures/133878871739665400.jpg"
+  },
+  {
+    "username": "votricuong",
+    "password": "votricuong",
+    "role": "user",
+    "image_path": "D:/IT/Python/Student_Management_App/Student_Management_App/user_img.png"
+  }
+]

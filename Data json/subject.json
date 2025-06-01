@@ -1,0 +1,62 @@
+[
+  {
+    "mamh": "6000001",
+    "tenmh": "Nhập môn lập trình",
+    "sotinchi": 3,
+    "hocky": 1
+  },
+  {
+    "mamh": "6000002",
+    "tenmh": "Tin học cơ bản",
+    "sotinchi": 2,
+    "hocky": 1
+  },
+  {
+    "mamh": "6000003",
+    "tenmh": "Hệ cơ sở dữ liệu",
+    "sotinchi": 3,
+    "hocky": 4
+  },
+  {
+    "mamh": "6000004",
+    "tenmh": "Mạng máy tính",
+    "sotinchi": 3,
+    "hocky": 2
+  },
+  {
+    "mamh": "6000005",
+    "tenmh": "Hệ điều hành",
+    "sotinchi": 3,
+    "hocky": 3
+  },
+  {
+    "mamh": "6000006",
+    "tenmh": "Công nghệ Java",
+    "sotinchi": 3,
+    "hocky": 6
+  },
+  {
+    "mamh": "6000007",
+    "tenmh": "Lập trình Python",
+    "sotinchi": 3,
+    "hocky": 4
+  },
+  {
+    "mamh": "6000008",
+    "tenmh": "Cấu trúc dữ liệu và giải thuật",
+    "sotinchi": 2,
+    "hocky": 2
+  },
+  {
+    "mamh": "6000009",
+    "tenmh": "Trí tuệ nhân tạo",
+    "sotinchi": 3,
+    "hocky": 5
+  },
+  {
+    "mamh": "6000010",
+    "tenmh": "Khoá luận cử nhân",
+    "sotinchi": 4,
+    "hocky": 7
+  }
+]

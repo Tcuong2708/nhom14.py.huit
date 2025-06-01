@@ -1,0 +1,62 @@
+[
+    {
+        "makhoa": "400000001",
+        "tenkhoa": "Công nghệ thông tin",
+        "sodt": "0723456789",
+        "truongkhoa": "Nguyễn Hồng Vũ"
+    },
+    {
+        "makhoa": "400000002",
+        "tenkhoa": "Điện tử",
+        "sodt": "0987654321",
+        "truongkhoa": "Trần Thị Bích"
+    },
+    {
+        "makhoa": "400000003",
+        "tenkhoa": "Cơ khí",
+        "sodt": "0365987412",
+        "truongkhoa": "Lê Văn Cường"
+    },
+    {
+        "makhoa": "400000004",
+        "tenkhoa": "Kinh tế",
+        "sodt": "0909090909",
+        "truongkhoa": "Phạm Thị Dung"
+    },
+    {
+        "makhoa": "400000005",
+        "tenkhoa": "Công nghệ thực phẩm",
+        "sodt": "0911223344",
+        "truongkhoa": "Võ Văn Em"
+    },
+    {
+        "makhoa": "400000006",
+        "tenkhoa": "Sinh học và môi trường",
+        "sodt": "0922334455",
+        "truongkhoa": "Đặng Thị Cúc"
+    },
+    {
+        "makhoa": "400000007",
+        "tenkhoa": "Công nghệ sinh học",
+        "sodt": "0933445566",
+        "truongkhoa": "Bùi Văn Giáp"
+    },
+    {
+        "makhoa": "400000008",
+        "tenkhoa": "Luật",
+        "sodt": "0944556677",
+        "truongkhoa": "Lương Thị Hiền"
+    },
+    {
+        "makhoa": "400000009",
+        "tenkhoa": "Ngoại ngữ",
+        "sodt": "0955667788",
+        "truongkhoa": "Trần Tín Nghị"
+    },
+    {
+        "makhoa": "400000010",
+        "tenkhoa": "Du lịch và ẩm thực",
+        "sodt": "0966778899",
+        "truongkhoa": "Trịnh Thị Khanh"
+    }
+]
