@@ -1,6 +1,6 @@
 import tkinter as tk
 from main_app import MainAppWindow
-from utils import load_user_config
+from utils import load_user_config, clear_user_config
 from login import LoginWindow
 from signup import SignupWindow
 import os
@@ -22,6 +22,7 @@ def run_main_app(role):
     main_root = tk.Tk()
     MainAppWindow(main_root, role)
     main_root.mainloop()
+    root.destroy()
 
 def show_signup_window():
     signup = SignupWindow(root, lambda: LoginWindow(root, run_main_app, show_signup_window))
@@ -29,12 +30,13 @@ def show_signup_window():
     signup.signup_root.focus_force()
 
 if __name__ == "__main__":
-    config = load_user_config()
-    if config.get("username") and config.get("role"):
-        tk.Tk().withdraw()
-        run_main_app(config["role"])
-    else:
+    #config = load_user_config()
+    #if config.get("username") and config.get("role"):
+        #tk.Tk().withdraw()
+        #run_main_app(config["role"])
+    #else:
         root = tk.Tk()
         root.withdraw()
+        clear_user_config()
         LoginWindow(root, run_main_app, show_signup_window)
         root.mainloop()

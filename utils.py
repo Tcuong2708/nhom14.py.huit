@@ -1,6 +1,6 @@
 import json
 from tkinter import messagebox
-
+import os
 USER_CONFIG_FILE = 'user_config.json'
 USERS_FILE = 'users.json'
 
@@ -31,3 +31,10 @@ def save_users(users):
             json.dump(users, f, indent=2, ensure_ascii=False)
     except Exception as e:
         messagebox.showerror("Lỗi", f"Không thể lưu người dùng: {e}")
+
+def clear_user_config():
+    if os.path.exists(USER_CONFIG_FILE):
+        try:
+            os.remove(USER_CONFIG_FILE)
+        except Exception as e:
+            messagebox.showerror("Lỗi", f"Không thể xoá cấu hình: {e}")
